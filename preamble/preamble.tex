@@ -1,0 +1,90 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% author : Yamada. T %%%
+%%% made for TH series %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[b5paper,10pt,fleqn] {ltjsarticle}
+
+\usepackage[margin=10truemm]{geometry}
+
+\usepackage{pict2e, graphicx}
+\usepackage{tikz}
+\usetikzlibrary{intersections,calc,arrows.meta}
+
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{ascmac}
+\usepackage{comment}
+\usepackage{empheq}
+\usepackage[shortlabels,inline]{enumitem}
+\usepackage{fancybox}
+\usepackage{fancyhdr}
+\usepackage{here}
+\usepackage{lastpage}
+\usepackage{listings, jvlisting}
+\usepackage{fixdif}
+
+\usepackage{stmaryrd}
+\usepackage[listings]{tcolorbox}
+%\usepackage{ascolorbox}
+\usepackage{titlesec}
+\usepackage{ulem}
+\usepackage{url}
+\usepackage{verbatim}
+\usepackage{wrapfig}
+\usepackage{xcolor}
+\usepackage{luatexja-ruby}
+\usepackage{varwidth}
+\usepackage[version=3]{mhchem}
+\usepackage{wrapfig}
+
+
+\usepackage{physics2}
+	\usephysicsmodule{ab}
+	\usephysicsmodule{ab.braket}
+	\usephysicsmodule{ab.legacy}
+	%\usephysicsmodule{braket}
+	\usephysicsmodule{diagmat}
+	\usephysicsmodule{xmat}
+	\usephysicsmodule{nabla.legacy}
+	\usephysicsmodule{qtext.legacy}
+
+\usepackage[ISO]{diffcoeff}
+\difdef { f, s } { D }
+{ op-symbol = \mathrm{D} }
+
+
+\newcommand{\mctext}[1]{\mbox{\textcircled{\scriptsize{#1}}}}
+\newcommand{\ctext}[1]{\textcircled{\scriptsize{#1}}}
+\newcommand{\ds}{\displaystyle}
+\newcommand{\comb}[2]{{}_{#1}\mathrm{C}_{#2}}
+\newcommand{\hs}{\hspace}
+\newcommand{\vs}{\vspace}
+\newcommand{\emphvs}{\vspace{1em}\notag\\}
+\newcommand{\ora}{\overrightarrow}
+\newcommand{\oramr}[1]{\overrightarrow{\mathrm{#1}}}
+\newcommand{\tri}{\triangle}
+\newcommand{\mr}{\mathrm}
+\newcommand{\mb}{\mathbb}
+\newcommand{\mrvec}[1]{\overrightarrow{\mathrm{#1}}}
+\newcommand{\itvec}{\overrightarrow}
+\newcommand{\bs}{\boldsymbol}
+\newcommand{\ra}{\rightarrow}
+\newcommand{\Ra}{\Rightarrow}
+\newcommand{\lra}{\longrightarrow}
+\newcommand{\Lra}{\Longrightarrow}
+\newcommand{\la}{\leftarrow}
+\newcommand{\La}{\Leftarrow}
+\newcommand{\lla}{\longleftarrow}
+\newcommand{\Lla}{\Longleftarrow}
+\newcommand{\lr}{\leftrightarrow}
+\newcommand{\llr}{\longleftrightarrow}
+\newcommand{\Llr}{\Longleftrightarrow}
+\renewcommand{\deg}{{}^\circ}
+\newcommand{\phbox}{\fbox{\phantom{1\hspace{2em}}}}
+\newcommand{\boxnum}[1]{\fbox{\phantom{\hspace{1em}}({#1})\phantom{\hspace{1em}}}}
+\newcommand{\boxkana}[1]{\fbox{\phantom{\hspace{1em}}{#1}\phantom{\hspace{1em}}}}
+\newcommand{\boxkm}[2]{\fbox{\, {#1}\phantom{\hspace{0.2em}} \,  ${#2}$}}
+\newcommand{\hzw}{\hspace{1\zw}}
+
+\renewcommand{\baselinestretch}{1.25}
+\parindent=1\zw

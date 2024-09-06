@@ -1,4 +1,4 @@
-PWD /Users/crutont/Documents/github/th_series/code/TH1-19
+PWD /Users/crutont/Documents/github/th_series/code/TH1-25
 INPUT /usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt
 INPUT ./main.tex
 OUTPUT main.log
@@ -321,3 +321,4 @@ INPUT ./main.aux
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb

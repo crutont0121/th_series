@@ -1,4 +1,4 @@
-PWD /Users/crutont/Documents/github/th_series/code/TH1-19
+PWD /Users/crutont/Documents/github/th_series/code/TH1-26
 INPUT /usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt
 INPUT ./main.tex
 OUTPUT main.log
@@ -316,8 +316,18 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/stmaryrd/Ustmry.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/stmaryrd/stmary10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/stmaryrd/stmary7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/stmaryrd/stmary5.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmr.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman7-regular.luc
+INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatexja/extra_lmroman7-regular.luc
+INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman5-regular.luc
+INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatexja/extra_lmroman5-regular.luc
 OUTPUT main.pdf
 INPUT ./main.aux
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb

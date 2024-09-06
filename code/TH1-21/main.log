@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  6 SEP 2024 22:58
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  6 SEP 2024 21:16
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1309,31 +1309,31 @@ warning  (map file): entry for 'ascgrp' already exists, duplicates ignored
 ) (./main.aux)
 \openout1 = main.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
 .
  (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1393,32 +1393,34 @@ e
 ))
 \Hy@linkcounter=\count371
 \c@lstlisting=\count372
-LaTeX Info: Redefining \d on input line 4.
-LaTeX Info: Redefining \partial on input line 4.
+LaTeX Info: Redefining \d on input line 5.
+LaTeX Info: Redefining \partial on input line 5.
 
-Package chemgreek Info: Activating mapping `default' on line 4.
+Package chemgreek Info: Activating mapping `default' on line 5.
 
-LaTeX Info: Redefining \div on input line 4.
+LaTeX Info: Redefining \div on input line 5.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 8.
+(Font)              scaled to size 6.47299pt on input line 10.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 8.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
+(Font)              scaled to size 4.62357pt on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
+
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
+
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+stmry on input line 8
-.
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
+0.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/stmaryrd/Ustmry.fd) [1
 
-] [2]
+]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./main.aux)
@@ -1429,25 +1431,28 @@ L3 programming layer <2024-02-20>
 )
 
 Here is how much of LuaTeX's memory you used:
- 26642 strings out of 476447
- 195703,1977958 words of node,token memory allocated
+ 26641 strings out of 476447
+ 125244,1977958 words of node,token memory allocated
  1097 words of node memory still in use:
    10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 204 attribute, 63 glue_sp
 ec, 28 attribute_list, 2 write, 13 user_defined nodes
-   avail lists: 1:41,2:58874,3:359,4:195,5:99,6:25,7:5845,8:5,9:2511,10:40,11:2
- 47891 multiletter control sequences out of 65536+600000
+   avail lists: 1:9,2:32439,3:199,4:154,5:102,6:16,7:3410,8:9,9:1366,10:24,11:2
+ 47890 multiletter control sequences out of 65536+600000
  44 fonts using 17506143 bytes
- 130i,6n,131p,1884b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,6n,131p,1884b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMin
 cho-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmr
 oman10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr7.pfb>
-Output written on main.pdf (2 pages, 75245 bytes).
+/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7
+.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msa
+m10.pfb>
+Output written on main.pdf (1 page, 90833 bytes).
 
-PDF statistics: 40 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+PDF statistics: 49 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

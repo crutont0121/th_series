@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  4 SEP 2024 23:31
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  6 SEP 2024 08:24
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1416,17 +1416,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Trying to load font information for U+stmry on input line 7
 .
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)(load cache: ex
-tra_lmroman10-bold.luc)
-LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <10> not available
-(Font)              Font shape `JT3/gt/m/n' tried instead on input line 17.
-LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 17.
-LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <10> not available
-(Font)              Font shape `JY3/gt/m/n' tried instead on input line 17.
-LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 17.
-(load cache: extra_haranoajigothic-medium.luc) [1
+(/usr/local/texlive/2024/texmf-dist/tex/latex/stmaryrd/Ustmry.fd) [1
 
 ]
 
@@ -1439,28 +1429,26 @@ L3 programming layer <2024-02-20>
 )
 
 Here is how much of LuaTeX's memory you used:
- 26645 strings out of 476447
+ 26641 strings out of 476447
  195703,1977958 words of node,token memory allocated
  1097 words of node memory still in use:
    10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 204 attribute, 63 glue_sp
 ec, 28 attribute_list, 2 write, 13 user_defined nodes
-   avail lists: 1:42,2:51721,3:315,4:218,5:64,6:26,7:5384,8:7,9:2250,10:26,11:2
- 47894 multiletter control sequences out of 65536+600000
- 46 fonts using 21421679 bytes
- 130i,6n,131p,1884b,308s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf>
-</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGot
-hic-Medium.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/haranoa
-ji/HaranoAjiMincho-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentyp
-e/public/lm/lmroman10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/
-amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (1 page, 92553 bytes).
+   avail lists: 1:43,2:52036,3:321,4:218,5:66,6:26,7:5418,8:6,9:2254,10:26,11:2
+ 47890 multiletter control sequences out of 65536+600000
+ 44 fonts using 17506143 bytes
+ 130i,6n,131p,1884b,312s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMin
+cho-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmr
+oman10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbol
+s/msam10.pfb>
+Output written on main.pdf (1 page, 89038 bytes).
 
-PDF statistics: 55 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+PDF statistics: 41 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

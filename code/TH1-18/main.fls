@@ -1,4 +1,4 @@
-PWD /Users/crutont/Documents/latex/phys/code/TH1-18
+PWD /Users/crutont/Documents/github/th_series/code/TH1-18
 INPUT /usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt
 INPUT ./main.tex
 OUTPUT main.log

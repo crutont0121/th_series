@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  6 SEP 2024 05:17
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  6 SEP 2024 08:49
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1444,12 +1444,12 @@ L3 programming layer <2024-02-20>
 
 Here is how much of LuaTeX's memory you used:
  26650 strings out of 476447
- 195703,1977958 words of node,token memory allocated
+ 195705,1977958 words of node,token memory allocated
  1097 words of node memory still in use:
    10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 204 attribute, 63 glue_sp
 ec, 28 attribute_list, 2 write, 13 user_defined nodes
-   avail lists: 1:39,2:51802,3:319,4:215,5:124,6:28,7:5471,8:31,9:2215,10:29,11:
-4
+   avail lists: 1:49,2:52254,3:331,4:215,5:124,6:28,7:5507,8:31,9:2227,10:29,11:
+2
  47899 multiletter control sequences out of 65536+600000
  46 fonts using 21421679 bytes
  130i,6n,131p,1884b,502s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1463,7 +1463,7 @@ r7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pf
 b></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10
 .pfb>
-Output written on main.pdf (2 pages, 110407 bytes).
+Output written on main.pdf (2 pages, 110424 bytes).
 
 PDF statistics: 56 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream

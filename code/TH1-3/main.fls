@@ -318,10 +318,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/stmaryrd/stmary7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/stmaryrd/stmary5.tfm
 INPUT ./fig/fig_1_3.pdf
 INPUT ./fig/fig_1_3.pdf
-INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc
-INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatexja/extra_lmroman10-bold.luc
-INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/haranoajigothic-medium.luc
-INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatexja/extra_haranoajigothic-medium.luc
 INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman7-regular.luc
 INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatexja/extra_lmroman7-regular.luc
 INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman5-regular.luc

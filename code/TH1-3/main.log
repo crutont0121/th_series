@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  6 SEP 2024 08:05
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  8 SEP 2024 03:29
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1424,17 +1424,7 @@ File: fig/fig_1_3.pdf Graphic file (type pdf)
 <use fig/fig_1_3.pdf>
 Package luatex.def Info: fig/fig_1_3.pdf  used on input line 10.
 (luatex.def)             Requested size: 256.0748pt x 103.83025pt.
-(load cache: extra_lmroman10-bold.luc)
-LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <10> not available
-(Font)              Font shape `JT3/gt/m/n' tried instead on input line 17.
-LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 17.
-LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <10> not available
-(Font)              Font shape `JY3/gt/m/n' tried instead on input line 17.
-LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 17.
-(load cache: extra_haranoajigothic-medium.luc)(load cache: extra_lmroman7-regula
-r.luc)
+(load cache: extra_lmroman7-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
 (Font)              scaled to size 6.47299pt on input line 22.
 (load cache: extra_lmroman5-regular.luc)
@@ -1453,30 +1443,28 @@ L3 programming layer <2024-02-20>
 )
 
 Here is how much of LuaTeX's memory you used:
- 26667 strings out of 476447
- 156564,1977958 words of node,token memory allocated
+ 26662 strings out of 476447
+ 156562,1977958 words of node,token memory allocated
  1155 words of node memory still in use:
    10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 230 attribute, 63 glue_sp
 ec, 31 attribute_list, 2 write, 13 user_defined nodes
-   avail lists: 1:21,2:42698,3:259,4:338,5:284,6:22,7:4008,8:25,9:1952,10:22,11:
+   avail lists: 1:18,2:42741,3:259,4:338,5:284,6:28,7:4012,8:23,9:1954,10:23,11:
 2
- 47913 multiletter control sequences out of 65536+600000
- 48 fonts using 21685119 bytes
- 130i,16n,131p,1884b,427s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf>
-</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGot
-hic-Medium.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/haranoa
-ji/HaranoAjiMincho-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentyp
-e/public/lm/lmroman10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/am
-sfonts/symbols/msam10.pfb>
-Output written on main.pdf (2 pages, 153251 bytes).
+ 47908 multiletter control sequences out of 65536+600000
+ 46 fonts using 17769519 bytes
+ 130i,16n,131p,1884b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMin
+cho-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmr
+oman10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/
+msam10.pfb>
+Output written on main.pdf (2 pages, 149791 bytes).
 
-PDF statistics: 64 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+PDF statistics: 50 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

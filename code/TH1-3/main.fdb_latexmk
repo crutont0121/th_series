@@ -1,5 +1,5 @@
 # Fdb version 4
-["latex"] 1725733797.44864 "main.tex" "main.pdf" "main" 1725733799.00283 0
+["latex"] 1726733283.01702 "main.tex" "main.pdf" "main" 1726733284.5016 0
   "../../preamble/preamble.tex" 1725637611.99122 2592 68612374ae0b1b0a3acd7e34b366d94d ""
   "/Users/crutont/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/haranoajimincho-regular.luc" 1724546374.9469 2011213 7221fcdccf757c0b43375417e862a944 ""
   "/Users/crutont/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc" 1724546375.05067 81875 9c75b3a3df266c2970fc91fab8010b3b ""
@@ -304,9 +304,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1724546255.64415 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1724546246 12256869 946e43bf4435bc23e5c34c69554b1c75 ""
   "fig/fig_1_3.pdf" 1725559266.62551 49617 649537e1547a53366a9d8ecb45e196ed ""
-  "main.aux" 1725733798.86549 120 68b7c6fc2e4dba34f9531cea15a7341c "latex"
-  "main.ltjruby" 1725733798.90079 40 dd4abb43628c78bd58b7ddf6aff4ac49 "latex"
-  "main.tex" 1725733796.14725 4768 74c617ce868059d85b84ee8787319033 ""
+  "main.aux" 1726733284.36478 120 68b7c6fc2e4dba34f9531cea15a7341c "latex"
+  "main.ltjruby" 1726733284.39908 40 dd4abb43628c78bd58b7ddf6aff4ac49 "latex"
+  "main.tex" 1726733269.51991 4771 e84fb5b0be42916a84d56136ba5c040d ""
   (generated)
   "main.aux"
   "main.log"

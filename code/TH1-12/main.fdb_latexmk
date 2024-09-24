@@ -1,6 +1,6 @@
 # Fdb version 4
-["latex"] 1725578858.82259 "main.tex" "main.pdf" "main" 1725578860.22224 0
-  "../../preamble/preamble.tex" 1725513257.07745 2566 67085bff6ad809879408e3865de4a936 ""
+["latex"] 1727102844.61379 "main.tex" "main.pdf" "main" 1727102845.90125 0
+  "../../preamble/preamble.tex" 1725637611.99122 2592 68612374ae0b1b0a3acd7e34b366d94d ""
   "/Users/crutont/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/haranoajimincho-regular.luc" 1724546374.9469 2011213 7221fcdccf757c0b43375417e862a944 ""
   "/Users/crutont/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc" 1724546375.05067 81875 9c75b3a3df266c2970fc91fab8010b3b ""
   "/Users/crutont/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1724546373.06749 127327 76a1047b4dbbf48407ed6ace26562c1b ""
@@ -297,9 +297,11 @@
   "/usr/local/texlive/2024/texmf-dist/tex/platex/jsclasses/jslogo.sty" 1601931076 5585 8e4615c54073c390d14154b29cee89cb ""
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1724546255.64415 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1724546246 12256869 946e43bf4435bc23e5c34c69554b1c75 ""
-  "main.aux" 1725578860.09477 120 42bd2c4fa3a18e927e09fd2bc1cd3907 "latex"
-  "main.ltjruby" 1725578860.12517 40 dd4abb43628c78bd58b7ddf6aff4ac49 "latex"
-  "main.tex" 1725578858.4458 3536 ed9eb9e5d6aa88f2b408b860f42c8093 ""
+  "fig/fig_1_12_1.pdf" 1727102494.02572 25202 0bfea05aa44b6dec9210eb9d0c855f80 ""
+  "fig/fig_1_12_2.pdf" 1727102504.17566 24792 a43e90c2cc1ddf3b828d377c73e6626b ""
+  "main.aux" 1727102845.80647 120 68b7c6fc2e4dba34f9531cea15a7341c "latex"
+  "main.ltjruby" 1727102845.8309 40 dd4abb43628c78bd58b7ddf6aff4ac49 "latex"
+  "main.tex" 1727102761.8271 3859 7727774a13f9a6cf9894540ad7a39d33 ""
   (generated)
   "main.aux"
   "main.log"

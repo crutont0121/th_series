@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  6 SEP 2024 08:27
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  23 SEP 2024 23:47
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1400,25 +1400,36 @@ Package chemgreek Info: Activating mapping `default' on line 3.
 
 LaTeX Info: Redefining \div on input line 3.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 7.
+(Font)              scaled to size 6.47299pt on input line 8.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 7.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
+(Font)              scaled to size 4.62357pt on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+stmry on input line 7
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 8
 .
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/stmaryrd/Ustmry.fd) [1
+(/usr/local/texlive/2024/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+<fig/fig_1_12_1.pdf, id=4, 498.5292pt x 512.57909pt>
+File: fig/fig_1_12_1.pdf Graphic file (type pdf)
+<use fig/fig_1_12_1.pdf>
+Package luatex.def Info: fig/fig_1_12_1.pdf  used on input line 20.
+(luatex.def)             Requested size: 170.71652pt x 175.52599pt.
+<fig/fig_1_12_2.pdf, id=5, 498.06075pt x 492.09467pt>
+File: fig/fig_1_12_2.pdf Graphic file (type pdf)
+<use fig/fig_1_12_2.pdf>
+Package luatex.def Info: fig/fig_1_12_2.pdf  used on input line 27.
+(luatex.def)             Requested size: 170.71652pt x 168.66905pt.
+ [1
 
-]
+<./fig/fig_1_12_1.pdf><./fig/fig_1_12_2.pdf>] [2]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./main.aux)
@@ -1429,26 +1440,26 @@ L3 programming layer <2024-02-20>
 )
 
 Here is how much of LuaTeX's memory you used:
- 26641 strings out of 476447
- 195700,1977958 words of node,token memory allocated
+ 26667 strings out of 476447
+ 125244,1977958 words of node,token memory allocated
  1097 words of node memory still in use:
    10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 204 attribute, 63 glue_sp
 ec, 28 attribute_list, 2 write, 13 user_defined nodes
-   avail lists: 1:43,2:49361,3:365,4:228,5:102,6:26,7:5064,8:5,9:2092,10:15,11:2
+   avail lists: 1:16,2:37517,3:283,4:229,5:115,6:30,7:3805,8:5,9:1630,10:15,11:2
 
- 47890 multiletter control sequences out of 65536+600000
+ 47910 multiletter control sequences out of 65536+600000
  44 fonts using 17506143 bytes
- 130i,6n,131p,1884b,312s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,8n,131p,1884b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMin
 cho-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmr
 oman10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb>
-Output written on main.pdf (1 page, 71182 bytes).
+Output written on main.pdf (2 pages, 80387 bytes).
 
-PDF statistics: 37 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+PDF statistics: 48 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

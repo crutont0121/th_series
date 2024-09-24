@@ -318,6 +318,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/stmaryrd/stmary7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/stmaryrd/stmary5.tfm
 INPUT ./fig/fig_1_9_1.pdf
 INPUT ./fig/fig_1_9_1.pdf
+INPUT ./fig/fig_1_9_2.pdf
+INPUT ./fig/fig_1_9_2.pdf
 OUTPUT main.pdf
 INPUT ./main.aux
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb

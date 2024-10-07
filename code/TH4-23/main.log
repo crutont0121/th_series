@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  2 OCT 2024 00:06
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  2 OCT 2024 00:14
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1399,44 +1399,50 @@ LaTeX Info: Redefining \partial on input line 4.
 Package chemgreek Info: Activating mapping `default' on line 4.
 
 LaTeX Info: Redefining \div on input line 4.
+<fig/fig_4_23.pdf, id=4, 498.06078pt x 350.35893pt>
+File: fig/fig_4_23.pdf Graphic file (type pdf)
+<use fig/fig_4_23.pdf>
+Package luatex.def Info: fig/fig_4_23.pdf  used on input line 10.
+(luatex.def)             Requested size: 227.62204pt x 160.11923pt.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 8.
+(Font)              scaled to size 6.47299pt on input line 12.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 8.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
+(Font)              scaled to size 4.62357pt on input line 12.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+stmry on input line 8
-.
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
+2.
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/stmaryrd/Ustmry.fd) [1
+
+<./fig/fig_4_23.pdf>]
 LaTeX Font Info:    Trying to load font information for OMS+lmr on input line 3
-6.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmr.fd
+9.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-36.
+39.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 36.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 39.
 (load cache: extra_lmroman7-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 36.
- [1
-
-] [2]
+(Font)              scaled to size 6.47299pt on input line 39.
+ [2]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./main.aux)
@@ -1447,15 +1453,15 @@ L3 programming layer <2024-02-20>
 )
 
 Here is how much of LuaTeX's memory you used:
- 26687 strings out of 476447
+ 26699 strings out of 476447
  156564,1977958 words of node,token memory allocated
  1142 words of node memory still in use:
    11 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 218 attribute, 63 glue_sp
 ec, 30 attribute_list, 2 write, 14 user_defined nodes
-   avail lists: 1:29,2:46579,3:313,4:225,5:75,6:31,7:4626,8:8,9:2014,10:43,11:2
- 47926 multiletter control sequences out of 65536+600000
+   avail lists: 1:23,2:41078,3:286,4:217,5:62,6:36,7:4025,8:4,9:1773,10:39,11:2
+ 47935 multiletter control sequences out of 65536+600000
  47 fonts using 17762887 bytes
- 130i,8n,131p,1884b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 130i,8n,131p,1884b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local
 /texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf></usr/loc
 al/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regul
@@ -1464,10 +1470,10 @@ gular.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 i10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
 .pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (2 pages, 79870 bytes).
+Output written on main.pdf (2 pages, 83455 bytes).
 
-PDF statistics: 52 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+PDF statistics: 56 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

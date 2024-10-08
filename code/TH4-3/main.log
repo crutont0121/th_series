@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  6 OCT 2024 20:51
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  8 OCT 2024 16:27
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1419,11 +1419,11 @@ LaTeX Font Info:    Trying to load font information for U+stmry on input line 6
 (/usr/local/texlive/2024/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
 warning  (file fig/fig_4_3_1.pdf) (pdf inclusion): PDF inclusion: found PDF vers
 ion '1.7', but at most version '1.5' allowed
-<fig/fig_4_3_1.pdf, id=4, 1991.94188pt x 715.92468pt>
+<fig/fig_4_3_1.pdf, id=4, 1993.4475pt x 716.6775pt>
 File: fig/fig_4_3_1.pdf Graphic file (type pdf)
 <use fig/fig_4_3_1.pdf>
 Package luatex.def Info: fig/fig_4_3_1.pdf  used on input line 14.
-(luatex.def)             Requested size: 312.9803pt x 112.48563pt.
+(luatex.def)             Requested size: 312.9803pt x 112.51642pt.
 (load cache: extra_lmroman9-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
 (Font)              scaled to size 8.32242pt on input line 15.
@@ -1435,16 +1435,16 @@ ion '1.7', but at most version '1.5' allowed
 <fig/fig_4_3_2.pdf, id=5, 1993.4475pt x 738.50906pt>
 File: fig/fig_4_3_2.pdf Graphic file (type pdf)
 <use fig/fig_4_3_2.pdf>
-Package luatex.def Info: fig/fig_4_3_2.pdf  used on input line 42.
+Package luatex.def Info: fig/fig_4_3_2.pdf  used on input line 45.
 (luatex.def)             Requested size: 312.9803pt x 115.94392pt.
 [1
 
 <./fig/fig_4_3_1.pdf>](load cache: extra_lmroman7-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 47.
+(Font)              scaled to size 6.47299pt on input line 55.
 (load cache: extra_lmroman5-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 47.
+(Font)              scaled to size 4.62357pt on input line 55.
  [2<./fig/fig_4_3_2.pdf>]
 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -1456,16 +1456,16 @@ L3 programming layer <2024-02-20>
 )
 
 Here is how much of LuaTeX's memory you used:
- 26677 strings out of 476447
+ 26684 strings out of 476447
  125244,1977958 words of node,token memory allocated
- 1097 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 204 attribute, 63 glue_sp
-ec, 28 attribute_list, 2 write, 13 user_defined nodes
-   avail lists: 1:16,2:37212,3:230,4:193,5:139,6:23,7:3772,8:8,9:1651,10:31,11:2
+ 1142 words of node memory still in use:
+   11 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 218 attribute, 63 glue_sp
+ec, 30 attribute_list, 2 write, 14 user_defined nodes
+   avail lists: 1:18,2:37232,3:230,4:194,5:139,6:26,7:3774,8:8,9:1648,10:31,11:2
 
- 47920 multiletter control sequences out of 65536+600000
- 48 fonts using 21684319 bytes
- 130i,10n,131p,1884b,638s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 47927 multiletter control sequences out of 65536+600000
+ 51 fonts using 21870559 bytes
+ 130i,10n,131p,1884b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.ot
 f></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiM
 incho-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/l
@@ -1474,12 +1474,13 @@ onts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/c
 msy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/m
-sam10.pfb>
-Output written on main.pdf (2 pages, 247947 bytes).
+y7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10
+.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msa
+m10.pfb>
+Output written on main.pdf (2 pages, 255427 bytes).
 
-PDF statistics: 63 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+PDF statistics: 67 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

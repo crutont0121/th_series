@@ -323,6 +323,9 @@ INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatexja/extra_lmroman9-regu
 INPUT ./fig/fig_4_3_2.pdf
 INPUT ./fig/fig_4_3_2.pdf
 OUTPUT main.pdf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti7.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti7.tfm
 INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman7-regular.luc
 INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatexja/extra_lmroman7-regular.luc
 INPUT /Users/crutont/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman5-regular.luc
@@ -333,4 +336,5 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb

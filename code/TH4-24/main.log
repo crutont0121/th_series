@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  4 OCT 2024 11:23
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  8 OCT 2024 16:22
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1408,46 +1408,46 @@ File: fig/fig_4_24.pdf Graphic file (type pdf)
 Package luatex.def Info: fig/fig_4_24.pdf  used on input line 10.
 (luatex.def)             Requested size: 199.16928pt x 120.04398pt.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 12.
+(Font)              scaled to size 6.47299pt on input line 13.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 12.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+(Font)              scaled to size 4.62357pt on input line 13.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
 
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
-2.
+3.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)(load cache: ex
 tra_lmroman7-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 37.
+(Font)              scaled to size 6.47299pt on input line 38.
 (load cache: extra_lmroman5-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 37.
+(Font)              scaled to size 4.62357pt on input line 38.
  [1
 
 <./fig/fig_4_24.pdf>]
 LaTeX Font Info:    Trying to load font information for OMS+lmr on input line 4
-2.
+3.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-42.
+43.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 42.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 43.
  [2]
 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -1460,11 +1460,11 @@ L3 programming layer <2024-02-20>
 
 Here is how much of LuaTeX's memory you used:
  26698 strings out of 476447
- 156557,1977958 words of node,token memory allocated
+ 195711,1977958 words of node,token memory allocated
  1097 words of node memory still in use:
    10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 204 attribute, 63 glue_sp
 ec, 28 attribute_list, 2 write, 13 user_defined nodes
-   avail lists: 1:40,2:49377,3:382,4:205,5:125,6:25,7:4887,8:15,9:2087,10:36,11:
+   avail lists: 1:42,2:49541,3:386,4:205,5:125,6:25,7:4903,8:15,9:2091,10:36,11:
 2
  47934 multiletter control sequences out of 65536+600000
  48 fonts using 17894639 bytes
@@ -1479,7 +1479,7 @@ x10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
 fb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><
 /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (2 pages, 133665 bytes).
+Output written on main.pdf (2 pages, 133654 bytes).
 
 PDF statistics: 62 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream

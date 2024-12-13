@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  8 NOV 2024 16:08
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.25)  8 NOV 2024 16:12
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1469,7 +1469,7 @@ i10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></us
 r/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (2 pages, 105548 bytes).
+Output written on main.pdf (2 pages, 105242 bytes).
 
 PDF statistics: 60 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
